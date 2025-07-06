@@ -12,8 +12,7 @@ This project investigates the changing importance of female-related terms in Bri
 ## Project Structure
 
 - `notebooks/` — Jupyter notebooks for analysis
-- `src/` — Source code
-- `data/` — Data files (not included in repo)
+- `data/` — Data files extraction (not included in repo)
 - `requirements.txt` — Python dependencies
 
   ## Results
