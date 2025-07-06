@@ -16,6 +16,11 @@ This project investigates the changing importance of female-related terms in Bri
 - `requirements.txt` — Python dependencies
 
 ## Results
+
+This multi-method analysis of British parliamentary debates around the 1928 Equal Franchise Act reveals a consistent gender imbalance in both **pronoun usage** and **role framing**. While **female pronouns and TF-IDF importance spiked in 1928–1929**, these gains were not uniformly sustained in later years. **Word cloud results** show that women continued to be associated with **supporting or domestic roles**, while men were linked to **institutional power** and **political authority**.
+
+RAG-based QA using a **small model on 1928 debates** surfaced both **supportive and oppositional arguments** on women's suffrage. The system effectively highlighted tensions between **moral duty**, **strategic concerns**, and **persistent stereotypes** around women’s political participation. While the results were insightful, future work with **larger models** and a **broader year range** could provide deeper understanding and richer historical context.
+
 Refer to the [Results.ipynb](https://github.com/pk2971/computational-gender-analysis/blob/main/notebooks/Results.ipynb) notebook for more detailed evaluation of the results.
 
 
