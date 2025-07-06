@@ -16,6 +16,9 @@ This project investigates the changing importance of female-related terms in Bri
 - `data/` — Data files (not included in repo)
 - `requirements.txt` — Python dependencies
 
+  ## Results
+  
+
 
 ## Acknowledgments
 
