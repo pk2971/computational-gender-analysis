@@ -17,7 +17,7 @@ This project investigates the changing importance of female-related terms in Bri
 - `requirements.txt` — Python dependencies
 
   ## Results
-  
+  Refer to the [Results.ipynb](https://github.com/pk2971/computational-gender-analysis/blob/main/notebooks/Results.ipynb) notebook for more detailed evaluation of the results.
 
 
 ## Acknowledgments
