@@ -1,1 +1,37 @@
+# Core NLP and Data Science
+nltk
+spacy
+scikit-learn
+matplotlib
+wordcloud
+bs4
+lxml
+
+# File handling
+zipfile36  # For Python <3.7; not needed for >=3.7 as zipfile is in the standard library
+
+# Transformers and Embeddings
+transformers
+sentence-transformers
+torch
+
+# LangChain and Vector Stores
+langchain-community
+chromadb
+
+# Gradio UI
+gradio
+
+# Utility
+tqdm
+
+# If using Jupyter/IPython magics
+ipython
+
+# Optional: for concurrent processing (standard library in Python 3.7+)
+# No need to add multiprocessing or concurrent.futures for modern Python
+
+# Notes:
+# - If you use a specific version of Python, pin versions accordingly.
+# - If running on Apple Silicon, you may wish to specify torch version for M1/M2 compatibility.
 
