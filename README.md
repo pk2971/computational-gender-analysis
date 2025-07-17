@@ -13,7 +13,7 @@
 ## Data
 
 - **Source:** [TheyWorkForYou.com](https://www.theyworkforyou.com/)
-- **Download:** See `data/README.md` for instructions.
+- **Download:** See [`data/README.md`](https://github.com/pk2971/computational-gender-analysis/tree/main/data) for instructions.
 
 ## Project Structure
 
